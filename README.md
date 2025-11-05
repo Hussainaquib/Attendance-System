@@ -18,5 +18,5 @@ pip install mediapipe opencv-python streamlit scikit-learn pandas joblib numpy o
 ### Pre-requisite:
 python version < 3.11
 
-### Project Preview
+### Project Preview:
 
