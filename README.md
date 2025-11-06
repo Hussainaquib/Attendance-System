@@ -49,3 +49,23 @@ python version < 3.11
 
 ### Project Preview:
 
+##### Register
+<p align="center">
+  <img src="https://github.com/Hussainaquib/Attendance-System/blob/main/Images/Register.png" alt="Register">
+</p>
+
+##### Train Model
+<p align="center">
+  <img src="https://github.com/Hussainaquib/Attendance-System/blob/main/Images/Train%20Model.png" alt="TrainModel">
+</p>
+
+##### Live Attendance
+<p align="center">
+  <img src="https://github.com/Hussainaquib/Attendance-System/blob/main/Images/Live%20Attendance.png" alt="LiveAttendance">
+</p>
+
+##### Admin Dashboard
+<p align="center">
+  <img src="https://github.com/Hussainaquib/Attendance-System/blob/main/Images/Admin%20Dashboard.png" alt="AdminDashboard">
+</p>
+
