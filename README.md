@@ -41,7 +41,11 @@ python version < 3.11
 3. Black Box Nature
 - Hard to interpret or explain how the model made a specific decision.
 
-### Workflow:
+### WorkFlow:
+
+<p align="center">
+  <img src="https://github.com/Hussainaquib/Attendance-System/blob/main/Images/WorkFlow.png" alt="WorkFlow">
+</p>
 
 ### Project Preview:
 
